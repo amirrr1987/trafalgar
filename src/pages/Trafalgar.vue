@@ -21,7 +21,7 @@
     <div class="container mx-auto px-5 md:px-0">
       <div class="grid md:grid-cols-2 items-center">
         <img
-          src="src/assets/img/trafalgar-header.svg"
+          src="@/assets/img/trafalgar-header.svg"
           alt=""
           class="mb-10 md:mb-0"
         >
@@ -53,7 +53,7 @@
           <div class="flex flex-col items-center">
             <img
               class="mb-4"
-              src="src/assets/img/icon-1.svg"
+              src="@/assets/img/icon-1.svg"
               alt=""
             >
             <h4 class="text-black mb-2">Consultation</h4>
@@ -64,7 +64,7 @@
           <div class="flex flex-col items-center">
             <img
               class="mb-4"
-              src="src/assets/img/icon-2.png"
+              src="@/assets/img/icon-2.png"
               alt=""
             >
             <h4 class="text-black mb-2">Online pharmacy</h4>
@@ -73,7 +73,7 @@
           <div class="flex flex-col items-center">
             <img
               class="mb-4"
-              src="src/assets/img/icon-3.png"
+              src="@/assets/img/icon-3.png"
               alt=""
             >
             <h4 class="text-black mb-2">Search doctor</h4>
@@ -82,7 +82,7 @@
           <div class="flex flex-col items-center">
             <img
               class="mb-4"
-              src="src/assets/img/icon-4.png"
+              src="@/assets/img/icon-4.png"
               alt=""
             >
             <h4 class="text-black mb-2">Tracking</h4>
@@ -92,7 +92,7 @@ Track and save your medical history and health data             </p>
           <div class="flex flex-col items-center">
             <img
               class="mb-4"
-              src="src/assets/img/icon-5.png"
+              src="@/assets/img/icon-5.png"
               alt=""
             >
             <h4 class="text-black mb-2">Emergency care</h4>
@@ -102,7 +102,7 @@ lovely family</p>
           <div class="flex flex-col items-center">
             <img
               class="mb-4"
-              src="src/assets/img/icon-6.png"
+              src="@/assets/img/icon-6.png"
               alt=""
             >
             <h4 class="text-black mb-2">Details info</h4>
@@ -117,7 +117,7 @@ lovely family</p>
         <div class="grid md:grid-cols-2 md:items-center">
           <div class="mb-10 md:mb-0">
             <img
-              src="src/assets/img/sec02.svg"
+              src="@/assets/img/sec02.svg"
               title=""
               alt=""
               class=""
@@ -153,7 +153,7 @@ lovely family</p>
           </div>
           <div class="row-start-1 mb-10 md:mb-0">
             <img
-              src="src/assets/img/sec03.svg"
+              src="@/assets/img/sec03.svg"
               title=""
               alt=""
               class=""
@@ -169,7 +169,7 @@ lovely family</p>
         <div class="grid md:grid-cols-3 gap-y-12 md:gap-y-0 md:gap-x-12 mb-10">
           <div class="">
             <img
-              src="src/assets/img/image 3.png"
+              src="@/assets/img/image 3.png"
               title=""
               alt=""
               class="w-full rounded-t-xl"
@@ -187,7 +187,7 @@ lovely family</p>
               >
                 Read more
                 <img
-                  src="src/assets/img/morde-arow.svg"
+                  src="@/assets/img/morde-arow.svg"
                   alt=""
                 >
               </a>
@@ -195,7 +195,7 @@ lovely family</p>
           </div>
           <div class="">
             <img
-              src="src/assets/img/article1.jpg"
+              src="@/assets/img/article1.jpg"
               title=""
               alt=""
               class="w-full rounded-t-xl"
@@ -213,7 +213,7 @@ lovely family</p>
               >
                 Read more
                 <img
-                  src="src/assets/img/morde-arow.svg"
+                  src="@/assets/img/morde-arow.svg"
                   alt=""
                 >
               </a>
@@ -221,7 +221,7 @@ lovely family</p>
           </div>
           <div class="">
             <img
-              src="src/assets/img/article2.png"
+              src="@/assets/img/article2.png"
               title=""
               alt=""
               class="w-full rounded-t-xl"
@@ -239,7 +239,7 @@ lovely family</p>
               >
                 Read more
                 <img
-                  src="src/assets/img/morde-arow.svg"
+                  src="@/assets/img/morde-arow.svg"
                   alt=""
                 >
               </a>
