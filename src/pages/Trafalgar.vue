@@ -169,7 +169,7 @@ lovely family</p>
         <div class="grid md:grid-cols-3 gap-y-12 md:gap-y-0 md:gap-x-12 mb-10">
           <div class="">
             <img
-              src="@/assets/img/image 3.png"
+              src="@/assets/img/image3.png"
               title=""
               alt=""
               class="w-full rounded-t-xl"
